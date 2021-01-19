@@ -8,12 +8,17 @@ This application is for users that need to keep track of a lot of information, i
 
 ## Table of Contents
 
+- [Deployed Application](#deployed-application)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
+
+## Deployed Application
+
+[Note Taker](https://note-taker-express-nodejs.herokuapp.com/)
 
 ## Usage
 
