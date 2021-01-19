@@ -17,6 +17,8 @@ This application is for users that need to keep track of a lot of information, i
 
 ## Usage
 
+![note taker demo](public/assets/demo.gif)
+
 - GET `/notes` - return the `notes.html` file.
 
 - GET `*` - return the `index.html` file
